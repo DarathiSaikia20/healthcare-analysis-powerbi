@@ -1,5 +1,7 @@
 # 🏥 Empowering Healthcare Decisions with Data-Driven Insights
 
+![Screenshot 2025-07-09 202258](https://github.com/user-attachments/assets/e17dad29-9557-4f19-9913-f8e47a3d1e33)
+
 ## 🔍 Tracking Patient Care, Treatment Costs, and Hospital Performance with Power BI
 
 ---
