@@ -125,10 +125,10 @@ This project aims to address these questions through a data-driven approach.
 
 - 👥 **Patient Flow**: 869 total cases across 5 hospitals
 - 📈 **Mean Recovery Score**: 5.44 out of 10
-- 💸 **Average Billing**: ₹10,000 per patient
+- 💸 **Average Billing**: $10,000 per patient
 - 🧑‍⚕️ **Top Performing Treatment**: Counseling showed the highest recovery score (5.66)
 - 🏥 **Highest Rated Hospital**: Riverside Clinic with a score of 5.60
-- 🛏 **Billing Variation**: Cedar Sinai Clinic had the highest average billing (₹10.4K)
+- 🛏 **Billing Variation**: Cedar Sinai Clinic had the highest average billing ($10.4K)
 - 🔄 **Seasonal Patterns**: Highest patient flow in April–July, lower toward year-end
 - ⚠️ **Note**: All top doctors show a recovery rating of 10.0 — this may indicate imputation bias or scoring limitation
 
